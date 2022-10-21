@@ -1,9 +1,9 @@
 # **Food Ordering App**
-![Image1](C:\Users\Celestial\Documents\React practice\FoodOrderApp\my-app\Images\r1.png)
+![Image1](my-app\r1.png)
 
 
 
-![Image2](C:\Users\Celestial\Documents\React practice\FoodOrderApp\my-app\Images\r2.png)
+![Image2](my-app\r2.png)
 
 
 Its basically an application that can select meals and add desired amount of them into our cart.We can manage our cart,see unit price and accumulated price for each line of the order as well as the grand total.
@@ -23,6 +23,6 @@ Its basically an application that can select meals and add desired amount of the
 ## Trainee Achieved
 - Getting knowledge of using hooks
 - Making portal
-- passing of data in components using props
+- And passing of data in components using props
 - Making of components
 - Fitting of image in a component
