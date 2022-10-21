@@ -1,9 +1,9 @@
 # **Food Ordering App**
-![Image1](my-app\r1.png)
+![](r1.png)
 
 
 
-![Image2](my-app\r2.png)
+![](r2.png)
 
 
 Its basically an application that can select meals and add desired amount of them into our cart.We can manage our cart,see unit price and accumulated price for each line of the order as well as the grand total.
